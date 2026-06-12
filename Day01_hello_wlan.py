@@ -68,3 +68,4 @@ if __name__ == "__main__":
     check_network_stats()
     
     print("\n[+] WLAN Discovery Complete!")
+    print("=" * 55)
